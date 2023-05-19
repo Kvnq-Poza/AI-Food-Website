@@ -19,41 +19,41 @@ Please make sure to update tests as appropriate.
 
 > May 7th - 2023
 
-[x] Website layout with desktop-first design
-[x] Font (Rubik) [Google Fonts](https://fonts.google.com/specimen/Rubik?query=rubik)
-[x] Styling and layout flow design
-[x] Implement responsive design formatting
-[x] Animate sections of the webpage
-[x] Create a clear color contrast
-[x] integrate icon pack from [ionicons](https://ionic.io/ionicons)
+- [x] Website layout with desktop-first design
+- [x] Font (Rubik) [Google Fonts](https://fonts.google.com/specimen/Rubik?query=rubik)
+- [x] Styling and layout flow design
+- [x] Implement responsive design formatting
+- [x] Animate sections of the webpage
+- [x] Create a clear color contrast
+- [x] integrate icon pack from [ionicons](https://ionic.io/ionicons)
 
 ## Phase 2: Setting up responsive design on smaller devices using @media (media queries)
 
 > May 16th - 2023
 
-[x] Set up breakpoints on various screen size
-[x] Change layout in relation to different screen sizes
-[x] Set up hamburger menu for mobile view
-[x] Testing to ensure responsiveness on different screen sizes
+- [x] Set up breakpoints on various screen size
+- [x] Change layout in relation to different screen sizes
+- [x] Set up hamburger menu for mobile view
+- [x] Testing to ensure responsiveness on different screen sizes
 
 ## Phase 3: Optimization, Scrolling, Effects, & Deployment
 
 > May 19th - 2023
 
-[x] Setting up navigation
-[x] Making nav work with JS
-[x] Implementing smooth scrolling
-[x] Browser support
-[x] Safari flex gap fix
-[x] Test performance with lighthouse
-[x] Add meta description and favicon (web, ios, & andriod)
-[x] Optimizations
-[x] Deployment
+- [x] Setting up navigation
+- [x] Making nav work with JS
+- [x] Implementing smooth scrolling
+- [x] Browser support
+- [x] Safari flex gap fix
+- [x] Test performance with lighthouse
+- [x] Add meta description and favicon (web, ios, & andriod)
+- [x] Optimizations
+- [x] Deployment
 
 ## Phase 4: Additional pages & functionality
 
-[ ] Including a meal page
-[ ] Set up a payment gateway
+- [ ] Including a meal page
+- [ ] Set up a payment gateway
 
 ## Project Structure
 
