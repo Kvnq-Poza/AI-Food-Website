@@ -58,7 +58,7 @@ Please make sure to update tests as appropriate.
 ## Project Structure
 
 ```
-09-Omnifood-Optimizations
+Omnifood
 ├─ .DS_Store
 ├─ JS
 │  └─ script.js
