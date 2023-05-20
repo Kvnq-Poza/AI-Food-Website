@@ -127,5 +127,5 @@ Omnifood
 Check out the webpage -> [omnifood](https://kvnqpoza-omnifood.netlify.app/) or run locally:
 
 - git clone https://github.com/Kvnq-Poza/AI-Food-Website.git
-- cd samar
+- cd AI-Food-Website
 - Open index.html file
